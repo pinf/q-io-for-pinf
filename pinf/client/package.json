@@ -1,0 +1,13 @@
+{
+  "uid": "github.com/pinf/q-io-for-pinf/pinf/client",
+  "main": "./client.js",
+  "mappings": {
+  	"q-io": "../.."
+  },
+  "exports": {
+    "bundles": {
+      "client.js": "./client.js",
+      "q-io-client.js": "./q-io-client.js"
+    }
+  }
+}
